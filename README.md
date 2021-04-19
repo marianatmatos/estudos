@@ -1,2 +1,2 @@
 # estudos
-this repo contains notes from my studies in artificial intelligence
+this repo contains notes and exercises from my studies in artificial intelligence
